@@ -79,16 +79,16 @@ const GetInTouch = () => {
           <div className="space-y-4">
             {/* Phone */}
             <a
-              href="tel:+911234567890"
+              href="tel:+918530507283"
               className="flex items-center gap-4 bg-blue-100 hover:bg-blue-200 text-blue-800 px-5 py-4 rounded-xl transition duration-300 shadow-md"
             >
               <FaPhoneAlt className="text-xl" />
-              <span className="text-base font-medium">+91 12345 67890</span>
+              <span className="text-base font-medium">+91 8530507283</span>
             </a>
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/911234567890"
+              href="https://wa.me/8530507283"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 bg-green-100 hover:bg-green-200 text-green-800 px-5 py-4 rounded-xl transition duration-300 shadow-md"
@@ -103,7 +103,7 @@ const GetInTouch = () => {
               className="flex items-center gap-4 bg-red-100 hover:bg-red-200 text-red-700 px-5 py-4 rounded-xl transition duration-300 shadow-md"
             >
               <FaEnvelope className="text-xl" />
-              <span className="text-base font-medium">agent@example.com</span>
+              <span className="text-base font-medium">yuvrajthombre85@gmail.com</span>
             </a>
           </div>
 
@@ -161,7 +161,7 @@ const GetInTouch = () => {
                 value={formData.number}
                 onChange={handleInputChange}
                 required
-                placeholder="+91 12345 67890"
+                placeholder="+912586789569"
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
               />
             </div>

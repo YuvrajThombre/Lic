@@ -37,16 +37,16 @@ const Header = () => {
               alt="LIC Logo"
             />
             <div className="hidden sm:flex flex-col text-sm text-gray-800 font-medium">
-              <span className="text-xs text-blue-900 font-semibold">RUSHIKESH</span>
+              <span className="text-xs text-blue-900 font-semibold">Rohit Thombre</span>
               <div className="flex items-center gap-2">
                 <FaWhatsapp className="text-green-500 text-base" />
                 <a
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/918530507283"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-green-600 transition"
                 >
-                  +91 98765 43210
+                  +91 853050 7283
                 </a>
               </div>
             </div>
@@ -163,12 +163,12 @@ const Header = () => {
           <div className="flex items-center gap-2 pt-4 border-t text-sm">
             <FaWhatsapp className="text-green-500" />
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/8530507283"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-green-600"
             >
-              +91 98765 43210
+              +91 853050 7283
             </a>
           </div>
         </div>
